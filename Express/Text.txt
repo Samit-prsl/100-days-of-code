@@ -1,0 +1,7 @@
+1) Setting up an express server.
+    expressJs is a javascript framework which works with NodeJs to simplify setting up a server for the backend.
+    //require function imports the package for use from the module installed.
+    //.listen -> listens to a port acccording to .env file(as 5001)
+    //.get -> asks for the route and then according to request from the user returns a response , this response is according to status 200 (which returns true/success) and sends a message/json/html according to the requested response.
+    //.use -> the .use method is used to mount middleware functions at a specified path. Middleware functions are functions that have access to the request and response objects, and can perform tasks such as modifying the request or response, or calling the next middleware function in the stack. It requires the directory from where further response is specified.
+    //router -> a router is an instance of the express.Router() class that provides a modular way to organize route handlers and middleware functions. The router object can be thought of as a mini-application that can have its own middleware functions, routes, and even sub-routers. 
