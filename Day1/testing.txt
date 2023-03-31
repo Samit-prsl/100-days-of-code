@@ -1,0 +1,10 @@
+Testing in javascript is done by Jest , Mocha , Chai etc.
+
+Testing is divided into three categories:
+1) Unit Testing - In this method , only one module / component is tested. Unit testing is a process of testing individual units or components of a software application. It involves testing the smallest functional parts of the code in isolation to ensure that they are working as expected. This helps to identify issues and errors early in the development cycle, making it easier and less expensive to fix them.
+
+The purpose of unit testing is to validate that each unit of the code works correctly and meets its intended functionality. This involves testing the input and output of each unit, as well as any external dependencies that the unit relies on. Unit tests should be automated and repeatable to ensure that they can be executed quickly and efficiently.
+
+2) Integration - Integration testing is a process of testing how multiple components or modules of a software application work together. It helps to ensure that the individual units of the software application are integrated correctly and that the application is functioning as expected
+
+3) E2E - End-to-end (E2E) testing is a software testing methodology that aims to test the entire software application from start to finish. It tests how the different components of the software application work together to ensure that the application functions as intended.
