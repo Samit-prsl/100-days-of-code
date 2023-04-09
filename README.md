@@ -11,3 +11,4 @@ The repository to store and keep all the hustles in according to #100daysofcode
 <p>Day 7 : Working on a Nextjs site which can convert text to json to ease out the process of adding it to the database , gonna push the code soon.</p>
 <p>Day 8 : Working on a Nextjs site which can convert text to json to ease out the process of adding it to the database , gonna push the code soon.</p>
 <p>Day 9 : Made a RestAPI using mongoose,mongodb cluster,express.js <a href='https://github.com/Samit-prsl/quotesAPI'>Click here to vist the repo</a> </p>
+<p>Day 10 : Completed the making of RestAPI which can perform all the CRUD operations , the api will be updated till it reaches the 100 songs mark! <a href='https://github.com/Samit-prsl/Top_100_songs_API.git'>Click here to vist the repo</a></p>
